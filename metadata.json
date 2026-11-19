@@ -1,0 +1,6 @@
+{
+  "name": "Yojana Sarthi",
+  "description": "Your Personal Guide to Indian Government Welfare Schemes — Discover schemes, check transparent eligibility, compare benefits, and access official application resources.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
